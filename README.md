@@ -12,11 +12,10 @@ This color scheme is not mono-chromatic but every attempt was made to make it lo
 It uses only few mild colors for syntax highlighting. Readability is key.
 
 * Background is slightly off-white. Foreground is dark gray.
-* Tested on Google Go and HTML.
-* Comments are in italic to make them stand out.
-* Tested on Sublime Text 3
+* Tested on Google Go and HTML with Sublime Text 3.
+* Comments are in italic to make them stand out. Emphasis here because comments are not executable code.
 
-Zazen name here implies simplicity.
+Zazen name here implies simplicity. Focus on code itself instead of how pretty the code syntax looks like.
 
 Examples
 ========
