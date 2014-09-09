@@ -311,7 +311,7 @@
               <key>fontStyle</key>
               <string></string>
               <key>foreground</key>
-              <string>#4F9FCF</string>
+              <string>#4070a0</string> <!--  #4F9FCF -->
           </dict>
       </dict>
       <dict>
@@ -324,7 +324,7 @@
               <key>fontStyle</key>
               <string></string>
               <key>foreground</key>
-              <string>#D44950</string>
+              <string>#902000</string>  <!-- old value #D44950 -->
           </dict>
       </dict>
 
