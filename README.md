@@ -24,4 +24,13 @@ Screenshot of the colors use Piatto light themed Sublime Text 3.
 
 ![Example](/screen.png)
 
+Recommended Settings on Windows
+===============================
 
+	"font_face": "Consolas",
+	"font_size": 11,    // or "font_size": 10.5
+	"line_padding_top": 1,
+
+Optional
+
+	"line_padding_bottom": 1,
