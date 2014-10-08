@@ -20,14 +20,14 @@ Zazen name here implies simplicity. Focus on code itself instead of how pretty t
 Examples
 ========
 
-Screenshot of the colors use Piatto light themed Sublime Text 3.
+Screenshot of the colors use Piatto light Mandarine themed Sublime Text 3.
 
 ![Example](/screen.png)
 
 Recommended Settings on Windows
 ===============================
 
-	"font_face": "Consolas",
+	"font_face": "MonacoB",
 	"font_size": 11,    // or "font_size": 10.5
 	"line_padding_top": 1,
 
